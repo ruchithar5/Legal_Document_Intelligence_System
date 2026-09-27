@@ -68,12 +68,12 @@ The system is designed to assist students, startups, HR teams, and individuals i
 
 1. Clone the repository:
 
+https://github.com/ruchithar5/Legal_Document_Intelligence_System.git
 
-git clone https://github.com/your-username/legal-document-agent.git
 
 2. Navigate into the folder:
 
-cd legal-document-agent
+cd Legal_Document_Intelligence_System
 
 3. Install dependencies:
 
